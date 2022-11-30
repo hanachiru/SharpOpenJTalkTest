@@ -1,0 +1,2 @@
+# SharpOpenJTalkTest
+SharpOpenJTalk.Langを利用したサンプルプロジェクト
