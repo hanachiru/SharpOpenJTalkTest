@@ -5,7 +5,7 @@ namespace SharpOpenJTalk.Lang.Native
 {
     internal class CoreDefinitions
     {
-        // NOTE : UnityのiOS用のnative pluginはDllNameが以下に変更しなければいけない仕様
+        // NOTE : UnityのiOS用のnative pluginはDllNameを以下に変更しなければいけない仕様
         // https://docs.unity3d.com/ja/2021.2/Manual/PluginsForIOS.html
 #if !UNITY_EDITOR && UNITY_IOS
         private const string DllName = "__Internal";
