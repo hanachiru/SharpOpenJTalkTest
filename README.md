@@ -40,8 +40,8 @@ https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 <code>Android</code>では<code>IL2CPP</code>を使わずにビルドすることができます。
   
   
-また<code>Android</code>の場合は<code>apk/jar(zip)</code>に圧縮されているため、<code>OpenJTalk</code>のファイル読み込みが正しく動作するのか疑問があります。  
-辞書のバイナリをInitialize
+また<code>Android</code>の場合は<code>apk/jar(zip)</code>に圧縮されているため、<code>OpenJTalk</code>のファイル読み込みが正しく動作するのか少し疑問があります。  
+(<code>Open_JTalk_load_u16</code>にバイナリを渡せたらよい？)
 
 ## xcodeprojに構造について
 <code>OpenJTalk</code>は<code>Unity-iPhone/Libraries/Plugins/SharpOpenJTalk</code>に入っています。
