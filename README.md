@@ -23,7 +23,7 @@ https://github.com/hanachiru/SharpOpenJTalkTest/blob/b24c437fc28940af4227371241b
 
 https://docs.unity3d.com/ja/2021.2/Manual/PluginsForIOS.html
 
-## 注意点
+## Unityを用いた場合の注意点
 Unityには、<code>IL2CPP</code>という<code>iOS</code>ビルドをする途中で<code>IL</code>から<code>C++</code>に変換をする機能があります。
 https://docs.unity3d.com/ja/2019.4/Manual/IL2CPP.html
 
@@ -31,6 +31,9 @@ https://docs.unity3d.com/ja/2019.4/Manual/IL2CPP.html
 https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 
 <code>Android</code>では<code>IL2CPP</code>を使わずにビルドすることができます。
+
+## xcodeprojに構造について
+<code>OpenJTalk</code>は<code>Unity-iPhone/Libraries/Plugins/SharpOpenJTalk</code>に入っています。
 
 ## ビルド後のファイル
 容量の関係上、以下に格納しました。  
