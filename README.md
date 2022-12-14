@@ -4,6 +4,9 @@
 以下の記事で行なっていることを基本的にしています。  
 https://www.hanachiru-blog.com/entry/2022/06/20/120000
 
+## 環境
+Unity2021.3.0f1
+
 ## Unityのフォルダ構成
 ```
 Assets
@@ -23,7 +26,7 @@ https://github.com/hanachiru/SharpOpenJTalkTest/blob/b24c437fc28940af4227371241b
 
 https://docs.unity3d.com/ja/2021.2/Manual/PluginsForIOS.html
 
-## 利用拡張子
+## 利用ファイル
 Androidの場合は<code>linux (.so)</code>を、iOSの場合は<code>browser-wasm (.a)</code>を利用させていただいています。
 
 
