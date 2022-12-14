@@ -23,6 +23,10 @@ https://github.com/hanachiru/SharpOpenJTalkTest/blob/b24c437fc28940af4227371241b
 
 https://docs.unity3d.com/ja/2021.2/Manual/PluginsForIOS.html
 
+## 利用拡張子
+Androidの場合は<code>linux (.so)</code>を、iOSの場合は<code>browser-wasm (.a)</code>を利用させていただいています。
+
+
 ## Unityを用いた場合の注意点
 Unityには、<code>IL2CPP</code>という<code>iOS</code>ビルドをする途中で<code>IL</code>から<code>C++</code>に変換をする機能があります。
 https://docs.unity3d.com/ja/2019.4/Manual/IL2CPP.html
@@ -39,3 +43,6 @@ https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 容量の関係上、以下に格納しました。  
 Andriod :   
 iOS(XCode) :   
+
+## 参考
+[Unity公式のNativePluginsに関するドキュメント](https://docs.unity.cn/ja/2020.3/Manual/NativePlugins.html)
