@@ -38,6 +38,10 @@ https://docs.unity3d.com/ja/2019.4/Manual/IL2CPP.html
 https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 
 <code>Android</code>では<code>IL2CPP</code>を使わずにビルドすることができます。
+  
+  
+また<code>Android</code>の場合は<code>apk/jar(zip)</code>に圧縮されているため、<code>OpenJTalk</code>のファイル読み込みが正しく動作するのか疑問があります。  
+辞書のバイナリをInitialize
 
 ## xcodeprojに構造について
 <code>OpenJTalk</code>は<code>Unity-iPhone/Libraries/Plugins/SharpOpenJTalk</code>に入っています。
@@ -67,6 +71,8 @@ Undefined symbol: _Open_JTalk_load_u16
 ```
 
 ### 補足
+エラーメッセージ的にどちらも正しく<code>OpenJTalk</code>を読み込めていないことが原因な気がします。
+
 Unity上の実装の問題である可能性もあります。その場合は申し訳ないです...。
 
 ## 参考
