@@ -44,8 +44,8 @@ https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 
 ## ビルド後のファイル
 容量の関係上、以下に格納しました。  
-Andriod :   
-iOS(XCode) :   
+Andriod : https://drive.google.com/drive/folders/11XkyFkTGyxd80b5Ve5Ybs4EtBsJrqDZi?usp=sharing  
+iOS(XCode) : https://drive.google.com/drive/folders/11XkyFkTGyxd80b5Ve5Ybs4EtBsJrqDZi?usp=sharing  
 
 ### 表示されるエラー
 #### Android(ランタイム時)
