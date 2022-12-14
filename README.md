@@ -78,4 +78,4 @@ Unity上の実装の問題である可能性もあります。その場合は申
 ## 参考
 [Unity公式のNativePluginsに関するドキュメント](https://docs.unity.cn/ja/2020.3/Manual/NativePlugins.html)  
 [AndroidのNativePluginsに関するドキュメント](https://docs.unity3d.com/ja/2019.4/Manual/AndroidNativePlugins.html)  
-[iOS]()
+[iOSのNativePluginsに関するドキュメント](https://docs.unity3d.com/ja/2021.2/Manual/PluginsForIOS.html)
