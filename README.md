@@ -33,6 +33,6 @@ https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 <code>Android</code>では<code>IL2CPP</code>を使わずにビルドすることができます。
 
 ## ビルド後のファイル
-容量の関係上、以下に格納しました。
+容量の関係上、以下に格納しました。  
 Andriod :   
 iOS(XCode) :   
