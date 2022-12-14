@@ -50,7 +50,11 @@ iOS(XCode) : https://drive.google.com/drive/folders/11XkyFkTGyxd80b5Ve5Ybs4EtBsJ
 ### 表示されるエラー
 #### Android(ランタイム時)
 ```
-
+openjtalk-lang assembly:<unknown assembly>type:<unknown type>member(null)
+at (wrapper managed-to-native) SharpOpenJTalk.Lang.Native.CoreDefinisions.Open_JTalk_initialize()
+at SharpOpenJTalk.Lang.Native.Core.OpenJTalkInitialize () [0x00000] in <7509f7e98da2426bb76f53330369fd5d>:0
+at SharpOpenJTalk.Lang.OpenJTalkAPI.Initialize(System.String dictPath, System.String userDictPath)[0x00000] in <7509f7e98da2426bb76f53330369fd5d>:0
+at Test.Start()[0x00016] in <7509f7e98da2426bb76f53330369fd5d>:0
 ```
 
 #### iOS(XCodeビルド時)
