@@ -34,7 +34,7 @@ Androidの場合は<code>linux (.so)</code>を、iOSの場合は<code>browser-wa
 Unityには、<code>IL2CPP</code>という<code>iOS</code>ビルドをする途中で<code>IL</code>から<code>C++</code>に変換をする機能があります。
 https://docs.unity3d.com/ja/2019.4/Manual/IL2CPP.html
 
-<code>iOS</code>ではこの機能が有効にしなければならないため、<code>C#</code>で書かれた<code>SharpOpenJTalk</code>のコードも対象なっているので注意してください。
+<code>iOS</code>ではこの機能を有効にしなければならないため、<code>C#</code>で書かれた<code>SharpOpenJTalk</code>のコードも対象になっているので注意してください。
 https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 
 <code>Android</code>では<code>IL2CPP</code>を使わずにビルドすることができます。
