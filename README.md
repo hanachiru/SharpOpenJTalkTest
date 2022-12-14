@@ -1,10 +1,10 @@
 # 概要
-SharpOpenJTalk.Langを利用したサンプルプロジェクト。
+[SharpOpenJTalk.Lang](https://github.com/yamachu/SharpOpenJTalk/tree/master/library/lang)を利用したサンプルプロジェクト。
   
 以下の記事で行なっていることを基本的にしています。  
 https://www.hanachiru-blog.com/entry/2022/06/20/120000
 
-## フォルダ構成
+## Unityのフォルダ構成
 ```
 Assets
 |--- Plugins
