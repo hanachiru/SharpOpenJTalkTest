@@ -47,5 +47,21 @@ https://docs.unity3d.com/ja/2021.3/Manual/ScriptingRestrictions.html
 Andriod :   
 iOS(XCode) :   
 
+### 表示されるエラー
+#### Android(ランタイム時)
+
+
+#### iOS(XCodeビルド時)
+```
+Undefined symbol: _Open_JTalk_clear
+Undefined symbol: _Open_JTalk_dict_gen_u16
+Undefined symbol: _Open_JTalk_extract_label_u16
+Undefined symbol: _Open_JTalk_initialize
+Undefined symbol: _Open_JTalk_load_u16
+```
+
+### 補足
+Unity上の実装の問題の可能性もあります。その場合は申し訳ないです...。
+
 ## 参考
 [Unity公式のNativePluginsに関するドキュメント](https://docs.unity.cn/ja/2020.3/Manual/NativePlugins.html)
