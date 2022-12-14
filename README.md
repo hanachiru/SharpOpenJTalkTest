@@ -49,7 +49,9 @@ iOS(XCode) : https://drive.google.com/drive/folders/11XkyFkTGyxd80b5Ve5Ybs4EtBsJ
 
 ### 表示されるエラー
 #### Android(ランタイム時)
+```
 
+```
 
 #### iOS(XCodeビルド時)
 ```
@@ -61,7 +63,9 @@ Undefined symbol: _Open_JTalk_load_u16
 ```
 
 ### 補足
-Unity上の実装の問題の可能性もあります。その場合は申し訳ないです...。
+Unity上の実装の問題である可能性もあります。その場合は申し訳ないです...。
 
 ## 参考
 [Unity公式のNativePluginsに関するドキュメント](https://docs.unity.cn/ja/2020.3/Manual/NativePlugins.html)
+[AndroidのNativePluginsに関するドキュメント](https://docs.unity3d.com/ja/2019.4/Manual/AndroidNativePlugins.html)
+[iOS]()
